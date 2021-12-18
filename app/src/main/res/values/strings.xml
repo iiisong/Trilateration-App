@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Trilateration</string>
+    <string name="dis_1">DISTANCE 1</string>
+    <string name="dis_2">DISTANCE 2</string>
+    <string name="dis_3">DISTANCE 3</string>
+    <string name="move_1">MOVE 1</string>
+    <string name="move_2">MOVE 2</string>
+    <string name="calc">CALC</string>
+    <string name="clear">CLEAR</string>
+    <string name="mdis_1">Distance</string>
+    <string name="mdis_2">Distance</string>
+    <string name="mber_2">Sub Heading</string>
+    <string name="land_1">Skaff</string>
+    <string name="land_2">Flere</string>
+    <string name="land_3">Closp</string>
+    <string name="text_1">Bearing to Skaff:</string>
+    <string name="text_2">Bearing to Flere:</string>
+    <string name="text_3">Bearing to Closp:</string>
+    <string name="mber_1">Sub Heading</string>
+</resources>
